@@ -4,3 +4,5 @@
 * Third item
 * Fourth item
 This text is __*really important*__.
+
+Italicized text is the *cat's meow*.
